@@ -35,4 +35,4 @@ Read my cybersecurity journey here on (ISC)2 blog- [**JOURNEY INTO CYBERSECURITY
 
 want to talk more, drop a hi at - [**mail me**](mailto:yadav.rishipal001@gmail.com)
 
-not digital, need on paper? - [**resume**](https://terpconnect.umd.edu/~ryadav/Rishipal_Resume.pdf)
+not digital, need on paper? - [**resume**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_Resume.pdf)
