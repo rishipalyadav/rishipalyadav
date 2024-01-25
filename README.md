@@ -25,6 +25,8 @@ graduated from [**SVNIT, Surat**](http://svnit.ac.in/) majoring in **Computer En
 
 worked on **Preserving Location Privacy** for my senior year project. [**read the paper**](https://link.springer.com/chapter/10.1007/978-981-15-4542-9_1).
 
+worked on **Measuring the Integrated Cyber Attack Surface Across US County Government Networks** during Fall 2022 and Spring 2023 at UMD's School of Public Policy. [**read the paper**](https://osf.io/hf3sn/).
+
 GIAC Security Essentials Certified (GSEC)- [**credentials**](https://www.youracclaim.com/badges/00fffe98-b32e-478d-a3fe-11b99a5c2f6d/linked_in_profile)!
 
 Associate of (ISC)2 (provisionally passed CISSP) - [**credentials**](https://www.youracclaim.com/badges/f235814a-7dc4-4e5a-a23e-8c14c2f789fc?source=linked_in_profile)!
@@ -35,4 +37,4 @@ Read my cybersecurity journey here on (ISC)2 blog- [**JOURNEY INTO CYBERSECURITY
 
 want to talk more, drop a hi at - [**mail me**](mailto:yadav.rishipal001@gmail.com)
 
-not digital, need on paper? - [**resume**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_Resume.pdf)
+not digital, need on paper? - [**single page resume**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_Resume.pdf), [**curriculum vitae**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_CV.pdf)
