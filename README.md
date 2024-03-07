@@ -1,3 +1,15 @@
+<div align="center"><h1><a href="https://rishipalyadav.github.io">Rishipal Yadav</a></h1></div>
+<div align="center"><p><i>Cloud Security, Threat Intelligence and Cybersecurity Strategies (National Cybersecurity Policies)</i></h1></div>
+
+ 
+I am a graduate student at the University of Maryland - College Park, majoring in _Cybersecurity_.  
+
+In my spare time, I enjoy reading, writing poetry and blogging. 
+
+Read my blog? [NotYourCISO](https://notyourciso.medium.com)
+
+
+
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -15,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->         
 
-# rishipal yadav
+<!-- # rishipal yadav
 
 *cybersecurity | poetry | and pretty much everything else | he is a drop full of oceans ;)*
 
@@ -37,4 +49,4 @@ Read my cybersecurity journey here on (ISC)2 blog- [**JOURNEY INTO CYBERSECURITY
 
 want to talk more, drop a hi at - [**mail me**](mailto:yadav.rishipal001@gmail.com)
 
-not digital, need on paper? - [**single page resume**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_Resume.pdf), [**curriculum vitae**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_CV.pdf)
+not digital, need on paper? - [**single page resume**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_Resume.pdf), [**curriculum vitae**](https://terpconnect.umd.edu/~ryadav/public/Rishipal_CV.pdf) -->
